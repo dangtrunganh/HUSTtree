@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "145074343366",
+    "firebase_url": "https://watering-629c3.firebaseio.com",
+    "project_id": "watering-629c3",
+    "storage_bucket": "watering-629c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145074343366:android:1f80c7e836ece609",
+        "android_client_info": {
+          "package_name": "com.dt.anh.husttree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145074343366-kfqdae8b65gmts5i0uejr3h0gtvm4rg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTNMZIltHh0YfiB8SWq99jTGtzZFfovSY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145074343366:android:58bd6c8457c8d1be",
+        "android_client_info": {
+          "package_name": "watering.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145074343366-kfqdae8b65gmts5i0uejr3h0gtvm4rg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTNMZIltHh0YfiB8SWq99jTGtzZFfovSY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
